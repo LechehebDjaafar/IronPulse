@@ -28,10 +28,10 @@
 ## 📸 Screenshots
 
 ### 📱 Mobile View
-![Mobile View](assets\img\img2.png)
+![Mobile View](assets/img/img2.png)
 
 ### 💻 Desktop View
-![Desktop View](assets\img\img1.png)
+![Desktop View](assets/img/img1.png)
 
 ---
 
